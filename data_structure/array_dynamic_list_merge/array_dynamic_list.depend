@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664426387 source:e:\msis\aug 2022\vlsi ds\array_dynamic_list\array_op.c
+	<stdlib.h>
+	<assert.h>
+	"array.h"
+
+1664427359 e:\msis\aug 2022\vlsi ds\array_dynamic_list\array.h
+
+1664425844 source:e:\msis\aug 2022\vlsi ds\array_dynamic_list\main.c
+	<assert.h>
+	<stdlib.h>
+	"array.h"
+

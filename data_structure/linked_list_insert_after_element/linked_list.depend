@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665029856 source:e:\msis\aug 2022\vlsi ds\linked_list\list_op.c
+	<stdlib.h>
+	"list.h"
+
+1665029848 e:\msis\aug 2022\vlsi ds\linked_list\list.h
+
+1665029834 source:e:\msis\aug 2022\vlsi ds\linked_list\main.c
+	<assert.h>
+	<stdlib.h>
+	"list.h"
+

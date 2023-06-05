@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664855989 source:e:\msis\aug 2022\vlsi ds\linked_list\list_op.c
+	<stdlib.h>
+	"list.h"
+
+1664856078 e:\msis\aug 2022\vlsi ds\linked_list\list.h
+

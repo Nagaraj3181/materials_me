@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663820280 source:e:\msis\aug 2022\vlsi ds\array_pass_by_value\main.c
+	<assert.h>
+	<stdlib.h>
+	<stdio.h>
+	"array.h"
+
+1663819309 e:\msis\aug 2022\vlsi ds\array_pass_by_value\array.h
+
+1663820273 source:e:\msis\aug 2022\vlsi ds\array_pass_by_value\array_op.c
+	"array.h"
+
